@@ -1,0 +1,14 @@
+{
+    "chainId": 101,
+    "address": "CS9bXG9HE6LoJz1SMpjnaH86XLNEitLubUS3ap3q7y1N",
+    "symbol": "PUFFS",
+    "name": "Puffs",
+    "decimals": 8,
+    "logoURI": "https://github.com/qudo-code/assets/blob/master/solana/tokens/PUFFS/PUFFS.png",
+    "tags": [
+      "utility-token"
+    ],
+    "extensions": {
+      "website": "https://twitter.com/solpuffss"
+    }
+}
